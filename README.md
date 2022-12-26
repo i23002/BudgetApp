@@ -30,6 +30,12 @@ In this program it expects for an integer like 1000 or 100000.
 3. `Get Detailed Summary(1/0)`: The Get Deatied Summary expects `1 or 0`. `1` basically represents yes and `0` basically represents no. If you need a detailed summary just enter `1` and if you dont need a detailed summary just enter `0`. 
 
 
+**MOTIVATION**: In a world of technologies and automation it feels stupid to enter values of your list in a spread sheet program like google spread sheet or microsoft excel. Even though MS-EXCEL and Google SpreadSheet has alot more power than this program but in case of automation they are not that good. So in a way it was a kind of experiment to create a python which will ask the user for the inputs and then handover them a nice visualization as well as a table and some additional details. 
+
+**OUTPUTS**: To see the outputs i highly incourage you to run the program or go through the `Video URL` link to see how it works. 
+
+
+
 
 
 
