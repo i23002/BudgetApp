@@ -25,7 +25,7 @@ In this program it expects for an integer like 1000 or 100000.
 
     Note:
         
-        AFTER ENTERING ALL THEITEMS OF YOUR LIST IF THE PROGRAM STILL PROMTS YOU FOR Description,amount JUST HIT ENTER WITHOUT ENTERING ANYTHING.
+        AFTER ENTERING ALL THE ITEMS OF YOUR LIST IF THE PROGRAM STILL PROMTS YOU FOR Description,amount JUST HIT ENTER WITHOUT ENTERING ANYTHING.
 
 3. `Get Detailed Summary(1/0)`: The Get Deatied Summary expects `1 or 0`. `1` basically represents yes and `0` basically represents no. If you need a detailed summary just enter `1` and if you dont need a detailed summary just enter `0`. 
 
