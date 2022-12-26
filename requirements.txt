@@ -1,0 +1,10 @@
+Requirements for the Budget.py
+  
+Before running the budget.py program please make sure that the following libraries are installed. 
+Libraries: 
+   1. matplotlib
+   command: pip install matplotlib
+
+   2. tabulate
+   command: pip install tabulate
+
